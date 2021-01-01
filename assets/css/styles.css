@@ -54,6 +54,10 @@ main {
   background: #4aaaa5;
 }
 
+#logo:hover {
+  background-color: #666;
+}
+
 /* override bootstrap hover color and border */
 .navbar-default .navbar-nav > li > a:hover {
   color: #4aaaa5;
