@@ -12,8 +12,8 @@ To see the final result, you can view the webpages live at [updated-portfolio](h
 ## Usage
 When the user clicks on the link, the page defaults to the About Me screen as the home page.  At the top are three navigation links, titled "About," "Portfolio," and "Contact."  
 "Portfolio" will take the user to the Portfolio screen to view my projects.![Portfolio page](/assets/imgs/portfolio-page.png) 
-"Contact" will take the user to the Contact screen, where there is a fillable form to provide contact information. ![Contact](/assets/imgs/contact.png)
-"About" brings the user back to the About Me screen.  ![About](/assets/imgs/about.png)
+"Contact" will take the user to the Contact screen, where there is a fillable form to provide contact information. ![Contact](./assets/imgs/Contact.png)
+"About" brings the user back to the About Me screen.  ![About](./assets/imgs/About.png)
 In addition, by clicking on my name "Jacquie Gutierrez" in the upper left hand corner, it will bring the user to the About Me (default home page).
 
 ## Installation
